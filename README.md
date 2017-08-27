@@ -12,15 +12,6 @@ Ph No. +91-7076607344
 
 <img src="Screenshots/1.png" width="40%">
 
-
-<img src="Screenshots/2.png" width="40%">
-
-
-<img src="Screenshots/3.png" width="40%">
-
-
-## Dependencies Used
-
 ## Author
 
 **Manne Naga Nithin** - [nithinmanne](https://github.com/nithinmanne)
